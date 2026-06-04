@@ -58,8 +58,8 @@ models:
                 - Processing
                 - Cancelled
                 - Shipped
-                - Complete
-                - Returned
+                # - Complete
+                # - Returned
 
       - name: num_items_ordered
         description: "Number of items in the order"

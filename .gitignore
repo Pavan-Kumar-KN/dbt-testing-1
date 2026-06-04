@@ -2,3 +2,8 @@
 .user.yml
 /logs
 logs
+
+dbt-learn
+
+answers/dbt_packages
+answers/logs
